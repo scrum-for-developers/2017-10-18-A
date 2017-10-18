@@ -9,6 +9,7 @@ held by [codecentric AG](https://www.codecentric.de/).
 * JDK 7+
 * Apache Maven (https://maven.apache.org)
 * Docker (for running acceptance tests, https://www.docker.com)
+* Geduld
 
 ## Running the application
 
