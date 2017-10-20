@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <div th:fragment="footer">
+     <p>Version: <span th:text="${@environment.getProperty('info.version')}" /></p>
+    </div>
+  </body>
+</html>
